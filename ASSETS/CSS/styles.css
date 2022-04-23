@@ -1,0 +1,54 @@
+.header{
+        height: 11em;
+        padding: 1em;
+        background-image: url("../IMG/logo_la_liga.png");
+        background-size: 40%;
+        background-position: right;
+        background-position-y: center;
+        background-repeat: no-repeat;
+        background-color: darkgrey;
+        }
+.header h1{
+        font-family: "Latin Modern Roman";
+        font-style: oblique;
+        color:white
+        }
+.header h3{
+        font-weight: bold;
+        color:white
+        }
+
+        h1{
+        margin: 0px;
+        }
+body{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+        }
+.class equipos{
+
+}
+.equipos {
+    width: 90%;
+    margin:initial
+    }
+.equipos td{
+    width: 50%;
+    padding: 2em;
+    }
+.footer{
+    font-family: "sans-serif";
+    font-style: normal;
+    font-size:large;
+    font-weight: bold;
+    background-image: url("../IMG/logo_ig.png");
+    background-size: 3%;
+    background-position: 14.7cm;
+    background-position-y: center;
+    background-repeat: no-repeat !important;
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(212, 226, 13);
+    color: rgb(12, 12, 12);
+    text-align: center;
+    font-weight: 1000;
+    }
